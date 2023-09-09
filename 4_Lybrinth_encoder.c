@@ -9,7 +9,7 @@ void clearEncoder(){
 }
 void count(int dis)
 {
-	dis/=7.27;
+	dis/=17.27;
 	dis*=360
 	return dis;
 }
